@@ -1,4 +1,3 @@
-# Brain-Tumor-Detection-Using-AI
 # Brain Tumor Detection Using AI
 
 ## Introduction
